@@ -1,7 +1,8 @@
-## 👋 Hi, I’m Pinkwolf12321
-- 👀 I’m interested in Raspberry Pi projects
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on my current project, Sonara
-- 📫 How to reach me: Email at thepinkwolf2016@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm only 8!
+# Hiya! 👋 I'm @Pinkwolf12321! (Call me Pinkwolf)
+### Get to know me...
+---
+- ✨ My magic device is the Raspberry Pi Zero 2 Wireless.
+- 🤝 Looking out for Python coders to collab with! ```print ("Ta-da!")```
+- 🧠 Sketchup EXPERT.
+- 😮 Fun fact: Way too tall for my age.
+- 💬 Google meet/Whatsapp
